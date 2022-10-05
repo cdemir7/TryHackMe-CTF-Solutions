@@ -2,4 +2,4 @@
 TryHackMe web sitesininde bulunan CTF'lerin Çözümleri
 
 
-[TryHackMe.com](https://tryhackme.com/)
+CTF'ler [TryHackMe.com](https://tryhackme.com/) adresinden alınmıştır.
