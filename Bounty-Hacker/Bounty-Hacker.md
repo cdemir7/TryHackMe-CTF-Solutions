@@ -34,7 +34,7 @@ locks.txt dosyamız ile de ssh portuna Hydra ile bir brute force saldırısı ya
 
 Burada 4. sorumuzun cevabı da ssh oluyor.
 
-5. sorunun cevabı: RedDr4gonSynd1cat3
+5.sorunun cevabı: RedDr4gonSynd1cat3
 
 Şimdi parolayıda bulduğumuza göre ssh portuna bağlanarak makineye erişim sağlıyoruz ve dosylarımızı listeliyoruz.
 
@@ -42,7 +42,7 @@ Burada 4. sorumuzun cevabı da ssh oluyor.
 
 user.txt dosyasının içini cat ile görüntülüyoruz.
 
-6. sorunun cevabı : THM{CR1M3_SyNd1C4T3}
+6.sorunun cevabı : THM{CR1M3_SyNd1C4T3}
 
 sudo -l komutunu çalıştırarak root olmadan kullanabileceğimiz bir açık varsa listeliyoruz.
 
